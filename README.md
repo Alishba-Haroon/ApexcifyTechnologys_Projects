@@ -1,10 +1,8 @@
 # ApexcifyTechnologys_Projects
 
-# Alishba-Haroon Projects
-
 This repository contains multiple Python projects developed as part of internship and learning tasks.  
 
-## **1. Chatbot for FAQs**
+## 1. Chatbot for FAQs
 **Description:**  
 A simple chatbot that answers frequently asked questions. It can understand user queries and provide appropriate responses.
 
@@ -17,7 +15,7 @@ A simple chatbot that answers frequently asked questions. It can understand user
 python "Chatbot for FAQs .py"
 ```
 
-** 2. Object Detection and Tracking **
+# 2. Object Detection and Tracking 
 
 #  Description:
 Real-time object detection and tracking using a webcam.
