@@ -19,7 +19,7 @@ python "Chatbot for FAQs .py"
 
 ** 2. Object Detection and Tracking **
 
-# ** Description:**
+#  Description:
 Real-time object detection and tracking using a webcam.
 
 Detects objects using YOLOv8
@@ -28,7 +28,7 @@ Tracks objects across frames with Deep SORT
 
 Displays bounding boxes, labels, and tracking IDs
 
-# ** Technologies Used: **
+# Technologies Used: 
 
 1. Python
 
@@ -47,16 +47,16 @@ Note: Make sure to install dependencies:
 ```bash
 pip install opencv-python ultralytics deep_sort_realtime torch torchvision
 ```
-# ** 3. Rock-Paper-Scissors with AI Opponent **
+#  3. Rock-Paper-Scissors with AI Opponent 
 
-# ** Description: **
+#  Description: 
 A simple game where a user plays Rock-Paper-Scissors against a computer AI.
 
 Uses random selection for AI
 
 Displays winner for each round
 
-# ** Technologies Used: **
+# Technologies Used: 
 
 1. Python
 
@@ -66,14 +66,15 @@ Displays winner for each round
 ```bash
 python "Rock-Paper-Scissors with AI Opponent .py"
 ```
-# ** Folder Structure **
+#  Folder Structure 
+```bash
 Alishba-Haroon/
 │
 ├── Chatbot for FAQs .py
 ├── Object Detection and Tracking .py
 ├── Rock-Paper-Scissors with AI Opponent .py
 ├── README.md
-
-** Author **
+```
+# Author 
 
 Name: Alishba Haroon
