@@ -3,10 +3,10 @@
 This repository contains multiple Python projects developed as part of internship and learning tasks.  
 
 ## 1. Chatbot for FAQs
-**Description:**  
+## Description:  
 A simple chatbot that answers frequently asked questions. It can understand user queries and provide appropriate responses.
 
-**Technologies Used:**  
+## Technologies Used: 
 1. Python  
 2. NLP (optional: NLTK, spaCy, or similar libraries)
 
